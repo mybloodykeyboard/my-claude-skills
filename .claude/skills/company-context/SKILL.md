@@ -43,9 +43,17 @@ Read **only the files relevant to the current task**. Don't preload all of them.
 
 ## Status (현재)
 
-Skeleton 단계. 아래 파일들은 placeholder만 있고 채워가는 중:
-- [ ] `company.md`
-- [ ] `products.md`
-- [ ] `differentiation.md`
-- [ ] `track-record.md`
-- [ ] `customers.md`
+초기 채움 + 1차 보강 완료. 출처:
+- `★랩큐소개_실적중심_260429.pdf` (2026-04-29) — 회사 전반·트랙레코드.
+- `AI정책보좌관_V5_랩큐.pdf` (2026 Proposal) — AI 정책 보좌관 제품.
+- `차세대 지능형LLM 서비스 솔루션_FPGA결과 포함_260401.pptx` — RPU/FPGA 상세 + 고양시 정량 성과.
+
+상태:
+- [x] `company.md`
+- [x] `products.md` — AI 정책 보좌관, 차세대 LLM 행정/민원 솔루션 추가
+- [x] `differentiation.md` — RPU(FPGA) 정량 벤치마크, 하이브리드 LLM, 고도화 RAG, 보이스 AI 보강
+- [x] `track-record.md` — 고양시 정량 성과 보강
+- [x] `customers.md` — 지자체장 페르소나·6개 지자체 시그니처 시나리오 추가
+
+미해결:
+- A-tran(주식회사 한통 제품): 랩큐와의 협력 관계 명확 후 반영.
