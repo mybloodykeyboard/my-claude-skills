@@ -55,5 +55,4 @@ Read **only the files relevant to the current task**. Don't preload all of them.
 - [x] `track-record.md` — 고양시 정량 성과 보강
 - [x] `customers.md` — 지자체장 페르소나·6개 지자체 시그니처 시나리오 추가
 
-미해결:
-- A-tran(주식회사 한통 제품): 랩큐와의 협력 관계 명확 후 반영.
+미해결: 현재 없음.
